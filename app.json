@@ -1,0 +1,12 @@
+{
+  "name": "testeemulador",
+  "displayName": "testeemulador",
+  "expo": {
+    "name": "testeemulador",
+    "slug": "testeemulador",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
